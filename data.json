@@ -1,0 +1,116 @@
+{
+  "category": {
+    "navidad": [
+      {
+        "question": "¿De dónde proviene la palabra Navidad?",
+        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406603/01.png",
+        "answers": [
+          "Del latín navidae",
+          "Del latín nacere",
+          "Del latín nativitas",
+          "Del latín navrae"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "¿Qué personaje religioso introdujo el uso del pesebre?",
+        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406647/02.png",
+        "answers": [
+          "Santo Tomás de Aquino",
+          "La Virgen María",
+          "El Papa Julio I",
+          "San Francisco de Asís"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "NO es uno de los regalos de los Reyes Magos",
+        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406818/03.png",
+        "answers": [
+          "Incienso",
+          "Mirra",
+          "Plata",
+          "Oro"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "¿En qué ciudad italiana nació el panetón?",
+        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/04.png",
+        "answers": [
+          "Viena",
+          "Milán",
+          "Nápoles",
+          "Roma"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "NO es un reno de Papa Noel",
+        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406818/05.png",
+        "answers": [
+          "Rolando",
+          "Rodolfo",
+          "Cupido",
+          "Dasher"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "¿Qué emperador romano declaró oficialmente la festividad de la Navidad?",
+        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/06.png",
+        "answers": [
+          "Dominiciano",
+          "Justiniano I",
+          "Alejandro Severo",
+          "Julio César"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "¿Cuál NO es un nombre de Papa Noel?",
+        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/07.png",
+        "answers": [
+          "Pere Noel",
+          "Francis Noel",
+          "Le Befana",
+          "Kriss Kringle"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "¿Dónde surgió la tradición del árbol de navideño?",
+        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/08.png",
+        "answers": [
+          "Alemania",
+          "EEUU",
+          "Noruega",
+          "Inglaterra"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "¿Dónde nació la tradición de comer pavo en Navidad?",
+        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/09.png",
+        "answers": [
+          "EEUU",
+          "Inglaterra",
+          "México",
+          "Perú"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "¿Cuántos reyes magos son mencionados originalmente en la Biblia?",
+        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/10.png",
+        "answers": [
+          "3",
+          "Muchos",
+          "No se menciona",
+          "6"
+        ],
+        "correct": 2
+      }
+    ]
+  }
+}
