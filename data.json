@@ -1,116 +1,63 @@
 {
-  "category": {
-    "navidad": [
-      {
-        "question": "¿De dónde proviene la palabra Navidad?",
-        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406603/01.png",
-        "answers": [
-          "Del latín navidae",
-          "Del latín nacere",
-          "Del latín nativitas",
-          "Del latín navrae"
-        ],
-        "correct": 2
-      },
-      {
-        "question": "¿Qué personaje religioso introdujo el uso del pesebre?",
-        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406647/02.png",
-        "answers": [
-          "Santo Tomás de Aquino",
-          "La Virgen María",
-          "El Papa Julio I",
-          "San Francisco de Asís"
-        ],
-        "correct": 3
-      },
-      {
-        "question": "NO es uno de los regalos de los Reyes Magos",
-        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406818/03.png",
-        "answers": [
-          "Incienso",
-          "Mirra",
-          "Plata",
-          "Oro"
-        ],
-        "correct": 2
-      },
-      {
-        "question": "¿En qué ciudad italiana nació el panetón?",
-        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/04.png",
-        "answers": [
-          "Viena",
-          "Milán",
-          "Nápoles",
-          "Roma"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "NO es un reno de Papa Noel",
-        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406818/05.png",
-        "answers": [
-          "Rolando",
-          "Rodolfo",
-          "Cupido",
-          "Dasher"
-        ],
-        "correct": 0
-      },
-      {
-        "question": "¿Qué emperador romano declaró oficialmente la festividad de la Navidad?",
-        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/06.png",
-        "answers": [
-          "Dominiciano",
-          "Justiniano I",
-          "Alejandro Severo",
-          "Julio César"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "¿Cuál NO es un nombre de Papa Noel?",
-        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/07.png",
-        "answers": [
-          "Pere Noel",
-          "Francis Noel",
-          "Le Befana",
-          "Kriss Kringle"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "¿Dónde surgió la tradición del árbol de navideño?",
-        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/08.png",
-        "answers": [
-          "Alemania",
-          "EEUU",
-          "Noruega",
-          "Inglaterra"
-        ],
-        "correct": 0
-      },
-      {
-        "question": "¿Dónde nació la tradición de comer pavo en Navidad?",
-        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/09.png",
-        "answers": [
-          "EEUU",
-          "Inglaterra",
-          "México",
-          "Perú"
-        ],
-        "correct": 2
-      },
-      {
-        "question": "¿Cuántos reyes magos son mencionados originalmente en la Biblia?",
-        "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1609406817/10.png",
-        "answers": [
-          "3",
-          "Muchos",
-          "No se menciona",
-          "6"
-        ],
-        "correct": 2
-      }
+    "questions": [
+        {
+            "category": {
+                "name": "Peliculas",
+                "icon": "--",
+                "sub_category": [
+                    {
+                        "name": "Identidad secreta de superhéroes",
+                        "icon": "--",
+                        "question": [
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610165947/enhanced-3478-1607527765-4.png",
+                                "answers": ["Steve Rogers", "Bruce Wayne", "Arthur Curry", "Clark Kent"]
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610166140/enhanced-3595-1607529636-14.png",
+                                "answers": ["Stephen Strange", "Peter Parker", "Wally West", "Barry Allen"]
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167149/enhanced-3430-1607527342-11.png",
+                                "answers": ["Bruce Wayne", "Bruce Banner", "Clint Barton", "Tony Stark"]
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167249/enhanced-3710-1607534018-1.png",
+                                "answers": ["Steve Rogers", "T'Challa", "Tony Stark", "Lucius Best"]
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167350/enhanced-3489-1607527211-17.png",
+                                "answers": ["Steve Rogers", "Logan Howlett", "Oliver Queen", "Wade Wilson"]
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167467/enhanced-3540-1607527372-3.png",
+                                "answers": ["Bruce Wayne", "Pietro Maximoff", "Johnny Storm", "Bruce Banner"]
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167592/enhanced-3516-1607528349-17.png",
+                                "answers": ["Diana Prince", "Jean Grey", "Harleen Quinzel", "Ororo Munroe"]
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167700/enhanced-3510-1607527135-23.png",
+                                "answers": ["Hal Jordan", "T'Challa", "Clint Barton", "Scott Lang"]
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167917/enhanced-3571-1607529332-1.png",
+                                "answers": ["Carol Danvers", "Daisy Johnson", "Wanda Maximoff", "Jean Grey"]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
     ]
-  }
 }
