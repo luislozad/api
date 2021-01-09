@@ -73,6 +73,74 @@
                     }
                 ]
             }
+        },
+        {
+            "category": {
+                "name": "Peliculas",
+                "icon": "--",
+                "sub_category": [
+                    {
+                        "name": "Identidad secreta de superhéroes",
+                        "icon": "--",
+                        "question": [
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610165947/enhanced-3478-1607527765-4.png",
+                                "answers": ["Steve Rogers", "Bruce Wayne", "Arthur Curry", "Clark Kent"],
+                                "answer": 3
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610166140/enhanced-3595-1607529636-14.png",
+                                "answers": ["Stephen Strange", "Peter Parker", "Wally West", "Barry Allen"],
+                                "answer": 1
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167149/enhanced-3430-1607527342-11.png",
+                                "answers": ["Bruce Wayne", "Bruce Banner", "Clint Barton", "Tony Stark"],
+                                "answer": 0
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167249/enhanced-3710-1607534018-1.png",
+                                "answers": ["Steve Rogers", "T'Challa", "Tony Stark", "Lucius Best"],
+                                "answer": 2
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167350/enhanced-3489-1607527211-17.png",
+                                "answers": ["Steve Rogers", "Logan Howlett", "Oliver Queen", "Wade Wilson"],
+                                "answer": 0
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167467/enhanced-3540-1607527372-3.png",
+                                "answers": ["Bruce Wayne", "Pietro Maximoff", "Johnny Storm", "Bruce Banner"],
+                                "answer": 3
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167592/enhanced-3516-1607528349-17.png",
+                                "answers": ["Diana Prince", "Jean Grey", "Harleen Quinzel", "Ororo Munroe"],
+                                "answer": 0
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167700/enhanced-3510-1607527135-23.png",
+                                "answers": ["Hal Jordan", "T'Challa", "Clint Barton", "Scott Lang"],
+                                "answer": 1
+                            },
+                            {
+                                "title": "¿Cuál es su identidad secreta?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610167917/enhanced-3571-1607529332-1.png",
+                                "answers": ["Carol Danvers", "Daisy Johnson", "Wanda Maximoff", "Jean Grey"],
+                                "answer": 3
+                            }
+                        ]
+                    }
+                ]
+            }
         }
     ]
 }
