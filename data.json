@@ -67,6 +67,84 @@
                     }
                 ]
             }
+        },
+        {
+    "questions": [
+        {
+            "category": {
+                "name": "Games",
+                "icon": "--",
+                "sub_category": [
+                    {
+                        "name": "¿Cuanto sabes de Super Mario?",
+                        "icon": "--",
+                        "question": [
+                            {
+                                "title": "¿Cuál fue el nombre y la profesión de Mario en el Donkey Kong de arcade?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610234849/c2c91b9d-afcb-40a3-8dcf-7b8dd792c372.jpg",
+                                "answers": ["Jumpman y carpintero", "Jumpman y fontanero", "Mario y fontanero", "Mario y carpintero"],
+                                "answer": 0
+                            },
+                            {
+                                "title": "¿Cuál de estas tres chicas no es una princesa?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610234990/c1fff375-d6a5-4d12-8a60-5b56834e9c68.jpg",
+                                "answers": ["Princesa Peach", "Princesa Rosalina/Estela", "Princesa Daisy", "Todas lo son"],
+                                "answer": 1
+                            },
+                            {
+                                "title": "¿Qué transformación permite a Mario convertirse en una estatua en Super Mario Bros 3?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610235089/f550e3f8-9057-4c6e-84f9-efafb08a316a.jpg",
+                                "answers": ["Mario Mapache", "Mario Invencible", "Mario Estatua", "Mario Tanooki"],
+                                "answer": 3
+                            },
+                            {
+                                "title": "¿Quién es el compañero de piso de Mario?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610235200/5fb48ef7-63ba-4241-8511-0b480639d2d0.jpg",
+                                "answers": ["Luigi", "Mario vive solo", "Goombario", "Toad"],
+                                "answer": 0
+                            },
+                            {
+                                "title": "¿Cuál es la comida favorita de Yoshi en los juegos de Mario?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610235318/5fec0843-d81f-4e0c-b3e2-8252357f0843.jpg",
+                                "answers": ["Las flores de fuego", "Los lacasitos de colores", "Los Goomba despistados", "La fruta"],
+                                "answer": 3
+                            },
+                            {
+                                "title": "De la siguiente lista ¿qué saga NO es un spin-off de Mario?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610235428/727028a6-0b58-41b8-be2a-8d14aebe116d.jpg",
+                                "answers": ["Super Smash Bros", "Paper Mario", "Fortune Street", "Mario Kart"],
+                                "answer": 0
+                            },
+                            {
+                                "title": "¿Cuál es una de las fuentes de ingreso de Mario en el Reino Champiñón?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610235543/6406741c-708d-4e0f-961d-146d11cf0909.jpg",
+                                "answers": ["Héroe a nómina", "Las monedas que consigue en sus aventuras", "La fontanería", "Una fábrica de juguetes"],
+                                "answer": 3
+                            },
+                            {
+                                "title": "¿A qué saga hacen referencia en Super Mario Galaxy?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610235643/f651bcb2-d7de-4e2a-85e0-20a614921071.jpg",
+                                "answers": ["Star Wars", "Metroid", "Star Fox", "The Legend of Zelda"],
+                                "answer": 0
+                            },
+                            {
+                                "title": "¿Quién iba a protagonizar originalmente Donkey Kong de arcade?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610235739/5340b73b-7e57-422b-aa25-22e91d51e542.jpg",
+                                "answers": ["Popeye", "Donkey Kong", "Link", "Pacman"],
+                                "answer": 3
+                            },
+                            {
+                                "title": "¿Qué título salió a finales de 2017?",
+                                "featured_image": "https://res.cloudinary.com/dczzyxegn/image/upload/v1610235913/c084b194-2df1-4042-92ed-d636a14713e8.jpg",
+                                "answers": ["Hotel Mario 2", "Super Mario Sunshine 2", "Super Mario Odyssey", "Super Mario Galaxy 3"],
+                                "answer": 2
+                            }
+                        ]
+                    }
+                ]
+            }
         }
+    ]
+}        
     ]
 }
