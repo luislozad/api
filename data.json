@@ -145,7 +145,7 @@
 						"question": [{
 								"title": "Estrenada en 1896 y con una duración de tan solo 3 minutos, la primera película de terror se realizó en",
 								"featured_image": "https://www.amexessentials.com/wp-content/uploads/2019/09/1-old-film.jpg",
-								"answers": ["Estados Unidos", "Alemania", "Francia", "--"],
+								"answers": ["Estados Unidos", "Alemania", "Francia"],
 								"answer": 2
 							},
 							{
