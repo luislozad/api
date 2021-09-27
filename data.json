@@ -146,29 +146,29 @@
                             {
                                 "title": "Estrenada en 1896 y con una duración de tan solo 3 minutos, la primera película de terror se realizó en",
                                 "featured_image": "https://www.amexessentials.com/wp-content/uploads/2019/09/1-old-film.jpg",
-                                "answers": ["Estados Unidos", "Alemania", "Francia"],
+                                "answers": ["Estados Unidos", "Alemania", "Francia", "--"],
                                 "answer": 2
                             },
                             {
                                 "title": "¿Cuál fue la primera película de terror en ser nominada a Mejor Película en los premios de la Academia?",
                                 "featured_image": "https://www.amexessentials.com/wp-content/uploads/2019/09/2-oscars.jpg",
-                                "answers": ["The Babadook (2014)", "El Exorcista (1973)", "La Cosa (1982)"],
+                                "answers": ["The Babadook (2014)", "El Exorcista (1973)", "La Cosa (1982)", "--"],
                                 "answer": 1
                             },
                             {
                                 "title": "Después de aparecer en varios festivales de terror en los años 70 y 80, ¿a qué actriz suele llamarse la ‘reina del terror’ original?",
                                 "featured_image": "https://www.amexessentials.com/wp-content/uploads/2019/09/3-scream-queen.jpg",
-                                "answers": ["Jamie Lee Curtis", "Linnea Quigley", "Neve Campbell"],
+                                "answers": ["Jamie Lee Curtis", "Linnea Quigley", "Neve Campbell", "--"],
                                 "answer": 2
                             },
                             {
                                 "title": "¿En qué película se pronunció la famosa frase: “¿Te gustan la películas de terror?”",
                                 "featured_image": "https://www.amexessentials.com/wp-content/uploads/2019/09/4-telephone.jpg",
-                                "answers": ["Sé lo que hicieron el verano pasado (1997)", "Scream: La máscara de la muerte (1996)", "Viernes 13 (1980)"],
+                                "answers": ["Sé lo que hicieron el verano pasado (1997)", "Scream: La máscara de la muerte (1996)", "Viernes 13 (1980)", "--"],
                                 "answer": 1
                             },
                         ]
-                    }                    
+                    }                 
                 ]
             }
         }
