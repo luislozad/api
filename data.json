@@ -77,7 +77,7 @@
         {
             "category": {
                 "name": "Peliculas",
-                "icon": "--",
+                "icon": "🎞",
                 "sub_category": [
                     {
                         "name": "Identidad secreta de superhéroes",
